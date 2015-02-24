@@ -1,0 +1,6 @@
+ro:
+    privileges: SELECT
+rw:
+    privileges: SELECT,UPDATE,INSERT,DELETE
+sp:
+    privileges: EXECUTE

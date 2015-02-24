@@ -1,0 +1,5 @@
+puppet:
+    username:   "test_rw",
+    userhosts:  [],
+    grants: [],
+    targethosts: []
